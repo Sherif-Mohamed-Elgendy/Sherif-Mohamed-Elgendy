@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi there, I'm Sharif Mohamed 👋
+  <h1 align="center">Hi there, I'm Sharif Mohamed 👋</h1>
 
   <a href="https://github.com/Sherif-Mohamed-Elgendy">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Research+Engineer+%7C+Founder+%40+Deeperth;Multimodal+AI+%26+Scientific+Discovery+Platforms;Computational+Physics+%26+3D+Optics+Simulation;Building+the+Future+of+Interactive+Education" alt="Typing SVG" />
@@ -146,12 +146,12 @@ I am an **AI Research Engineer** and the **Founder of Deeperth**, focused on the
     <tr>
       <td align="center">
         <a href="https://github.com/Sherif-Mohamed-Elgendy">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sherif-Mohamed-Elgendy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="Sharif's GitHub Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sherif-Mohamed-Elgendy&theme=tokyonight" alt="GitHub Profile Summary" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Sherif-Mohamed-Elgendy">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-Mohamed-Elgendy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sherif-Mohamed-Elgendy&theme=tokyonight" alt="Repos per Language" />
         </a>
       </td>
     </tr>
@@ -159,7 +159,7 @@ I am an **AI Research Engineer** and the **Founder of Deeperth**, focused on the
 
   <p align="center">
     <a href="https://github.com/Sherif-Mohamed-Elgendy">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherif-Mohamed-Elgendy&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Sherif-Mohamed-Elgendy&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
     </a>
   </p>
 </div>
